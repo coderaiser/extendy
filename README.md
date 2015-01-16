@@ -11,7 +11,7 @@ npm i extendy --save
 ## How to use?
 
 ```js
-var url     = require('extendy'),
+var extendy     = require('extendy'),
     obj    = {
         hello: 1
     }
