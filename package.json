@@ -1,0 +1,22 @@
+{
+  "name": "extendy",
+  "version": "1.0.0",
+  "description": "Dead simple object extend",
+  "main": "lib/extendy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/extendy.git"
+  },
+  "keywords": [
+    "extend"
+  ],
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderaiser/extendy/issues"
+  },
+  "homepage": "https://github.com/coderaiser/extendy"
+}
