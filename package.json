@@ -1,6 +1,6 @@
 {
   "name": "extendy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dead simple object extend",
   "main": "lib/extendy.js",
   "scripts": {
